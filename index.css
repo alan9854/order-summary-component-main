@@ -32,7 +32,7 @@ button {
 
 .card {
   background-color: var(--Very-pale-blue);
-  width: 325px;
+  width: 525px;
   height: auto;
   border-radius: 20px;
   margin-bottom: 1.25rem;
@@ -60,10 +60,11 @@ button {
 
 .plan {
   display: flex;
-  background-color: var(--Very-pale-blue);
+  background-color: var(--Pale-blue);
   padding: 1rem;
   justify-content: space-evenly;
   align-items: center;
+  border-radius: 0.5rem;
 }
 .plan div {
   display: flex;
@@ -74,13 +75,14 @@ button {
 }
 
 .btn_1 {
-  width: 290px;
+  width: 250px;
   margin: auto;
   border-radius: 10px;
   margin-top: 20px;
   padding: 15px;
   background-color: var(--Bright-blue);
   border: none;
+  color: white;
 }
 
 .btn_1:hover {
@@ -91,7 +93,7 @@ button {
   color: gray;
   font-weight: bold;
   padding: 20px;
-  width: 290px;
+  width: 250px;
   margin: auto;
   border: none;
   background-color: var(--Very-pale-blue);
