@@ -94,6 +94,7 @@ button {
   width: 290px;
   margin: auto;
   border: none;
+  background-color: var(--Very-pale-blue);
 }
 
 .btn_2:hover {
