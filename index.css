@@ -9,6 +9,7 @@ body {
   background-image: url(./images/pattern-background-desktop.svg);
   background-repeat: no-repeat;
   background-color: var(--Pale-blue);
+  background-size: contain;
 }
 
 button {
